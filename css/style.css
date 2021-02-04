@@ -291,7 +291,7 @@ footer{ width:100%; float:left; position:relative;}
 
 /* INTRODUCTION */
 .introduction{ width:100%; float:left; padding:100px 0; text-align:center;}
-.introduction .title{ width:100%; float:left; text-align:center; margin-bottom:-30px; font-size:60px; font-weight:700; position:relative;}
+.introduction .title{ width:100%; float:left; padding:40px;text-align:center; font-size:60px; font-weight:700; position:relative;}
 .introduction h5{ max-width:1000px; display:inline-block; font-size:60px; line-height:74px; margin-top:-50px; margin-bottom:20px; font-family: 'Playfair Display', serif;}
 .introduction h5 em{ color:#eb1b38; font-style:italic; border-bottom:1px solid #eb1b38;}
 .introduction .numbers{ height:70px; display:inline-block; font-size:70px; font-weight:700; padding:0; vertical-align:inherit; }
